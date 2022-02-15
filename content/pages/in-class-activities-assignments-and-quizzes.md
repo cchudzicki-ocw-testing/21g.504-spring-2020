@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: In-class Activities, Assignments, and Quizzes
-type: CourseSection
 uid: a7cec55c-b0af-81b5-02fb-fe69d05ab806
 ---
 

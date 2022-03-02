@@ -20,7 +20,7 @@ Below, Wakana Maekawa describes various aspects of how she teaches _21G.504 Japa
 
 **Wakana Maekawa:** Since many students in Japanese IV are interested in doing an internship in Japan through the [MISTI-Japan](https://misti.mit.edu/mit-japan) program after completing the course, it’s important for them to understand the socially appropriate language and be able to use it. For many students it seems difficult to understand which forms to use in which circumstances at first, but we teach one form at a time by explaining the concept with many example sentences and provide them with ample opportunities to deepen their understanding and fully acquire the skills through exercises and role plays.
 
-**{{< anchor "rubric" >}}{{< /anchor >}}OCW:** You use a detailed {{< resource_link 325f907e-3fb1-6f23-ba1f-7551a4e101c1 "rubric" >}} in calculating the grades for the two interview tests. What are the advantages and disadvantages of this approach? Do you share this rubric with your students? If so, how is it useful to them?
+**{{< anchor "rubric" >}}{{< /anchor >}}OCW:** You use a detailed {{% resource_link 325f907e-3fb1-6f23-ba1f-7551a4e101c1 "rubric" %}} in calculating the grades for the two interview tests. What are the advantages and disadvantages of this approach? Do you share this rubric with your students? If so, how is it useful to them?
 
 {{< quote "Each student has strengths and weaknesses, but grading their performance using just a letter grade doesn’t inform them what their strengths and weaknesses are." "— Wakana Maekawa" >}}
 
@@ -42,7 +42,7 @@ The students' grades were based on the following assessment elements:
 - 15% Presentation
   
 
-### {{< resource_link 325f907e-3fb1-6f23-ba1f-7551a4e101c1 "Rubric" >}}
+### {{% resource_link 325f907e-3fb1-6f23-ba1f-7551a4e101c1 "Rubric" %}}
 
 ### [Instructor Insights on Assessment](#rubric)
 

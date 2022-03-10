@@ -51,7 +51,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_21G.501 Japanese I_](/courses/21g-501-japanese-i-fall-2019/) or equivalent
+[_21G.501 Japanese I_](/courses/21g-501-japanese-i-fall-2019) or equivalent
 
 ### Requirements Satisfied
 

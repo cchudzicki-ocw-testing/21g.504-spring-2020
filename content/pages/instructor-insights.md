@@ -9,7 +9,7 @@ uid: 651a8dea-013c-4de9-be6d-0fe53ac965e7
 ---
 ## Instructor Insights
 
-Below, Wakana Maekawa describes various aspects of how she teaches _21G.504 Japanese IV_.
+Below, Wakana Maekawa describes various aspects of how she teaches *21G.504 Japanese IV*.
 
 **OCW:** What are the biggest challenges students tend to face in this fourth course in the sequence of Japanese courses at MIT? How do you address these challenges? What tips do you have for other educators teaching this level of Japanese?
 
@@ -47,14 +47,14 @@ The students' grades were based on the following assessment elements:
 
 ### Prerequisites
 
-[_21G.501 Japanese I_](/courses/21g-501-japanese-i-fall-2019) or equivalent
+[*21G.501 Japanese I*](/courses/21g-501-japanese-i-fall-2019) or equivalent
 
 ### Requirements Satisfied
 
 - GIR
 - HASS
 - HASS-H
-- 21G.504 is required for a [Bachelor’s Degree in Global Languages with a concentration in Japanese Studies (PDF)](https://mitgsl.mit.edu/sites/default/files/JapaneseSmSpring21_0.pdf).
+- 21G.504 is required for a [Bachelor’s Degree in Global Languages with a concentration in Japanese Studies](http://catalog.mit.edu/schools/humanities-arts-social-sciences/global-studies-languages/#global-languages-literatures-bs-course-21g).
 - 21G.504 counts toward the two years of Japanese studies required for participation in the [MISTI-Japan internship program](https://misti.mit.edu/mit-japan).
 
 ### Offered

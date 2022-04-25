@@ -38,7 +38,8 @@
   },
   "learning_resource_types": [
     "Exams",
-    "Instructor Insights"
+    "Instructor Insights",
+    "Written Assignments"
   ],
   "site_uid": "aa1d20cd-3527-4417-91eb-aa2ad2d77343",
   "title": "Course Metadata"

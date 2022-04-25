@@ -224,6 +224,6 @@ Needs to practice listening more.
 
 {{< tdclose >}}{{< tdopen >}}
 8.0–12.0
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-Total Points: 72.0–100.0
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+**Total Points: 72.0–100.0**

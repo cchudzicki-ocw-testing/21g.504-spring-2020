@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Wakana Maekawa describes various aspects of how she
+  teaches 21G.504 Japanese IV.
 draft: false
 layout: instructor_insights
 learning_resource_types: []

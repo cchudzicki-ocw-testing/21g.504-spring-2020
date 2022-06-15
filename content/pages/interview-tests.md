@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page provides the information for the interview test for the MIT
+  course 21G.504 Japanese IV, Fall 2020 taught by Takako Aikawa, Masami Ikeka-Lamm,
+  Wakana Maekawa, and Emiko Rafique.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
